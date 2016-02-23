@@ -5,6 +5,6 @@
 ![image](https://github.com/wzkacxl/Bootstrap/blob/master/image/lg.png)
 小屏时：
 ---------------------
-![image](https://github.com/wzkacxl/Bootstrap/blob/master/image/sm.png)
-汉堡菜单触发的collapse：
 ![image](https://github.com/wzkacxl/Bootstrap/blob/master/image/sm1.png)
+汉堡菜单触发的collapse：
+![image](https://github.com/wzkacxl/Bootstrap/blob/master/image/sm2.png)
